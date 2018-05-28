@@ -1,0 +1,34 @@
+JavaSE 
+多线程，socket，Java发射机制
+JavaEE
+mybatis、springMVC
+spring:spring boot 、spring security   
+
+-----git(版本控制)
+-----mybatis 
+账号：liuyi001 
+密码：123xiaowangzi
+邮箱：wangzi_xiao@126.com
+git(版本控制)的其中三个重要的功能
+1、冲突 
+2、分支管理机制 ：bug分支
+3、版本管理
+一、
+1、提交项目：
+本地仓库--》
+配置：
+全局配置 ：
+git config -g user.username 
+git config -g user.username
+查看配置：git config -l(--list)  
+1、初始化git init
+2、git add . (-A)（.）（-all） 添加
+3、git status 状态
+4、git commit -m“”  托管
+添加远程连接：ssh  (https) 
+git remote add origin(取名) （路径）
+远程仓库：推
+git push origin -u master(添加到master分支上)
+
+二、下载项目
+git clone （复制路径==》要克隆一下路径）
