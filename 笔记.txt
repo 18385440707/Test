@@ -34,3 +34,4 @@ git push origin -u master(添加到master分支上)
 git clone （复制路径==》要克隆一下路径）
 
 lhy
+ly
